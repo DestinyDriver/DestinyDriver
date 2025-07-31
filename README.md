@@ -24,7 +24,7 @@ Here are some of the projects I've worked on and what I'm currently building:
 
 ---
 
-> Want to collaborate or hire me? Feel free to connect!
-🤝 **LinkedIn** —  [See Profile](https://www.linkedin.com/in/divyanshsahu03/)
+> Want to collaborate or hire me? Feel free to connect!<br/>
+🤝 **LinkedIn** —  [See Profile](https://www.linkedin.com/in/divyanshsahu03/)<br/>
 📧 **Gmail** — [Contact Me](mailto:2023kucp1096@iiitkota.ac.in?subject=Let's%20Collaborate&body=Hi%20DestinyDriver%2C%0A%0AI%20came%20across%20your%20projects%20and%20I'd%20love%20to%20connect!)
 
