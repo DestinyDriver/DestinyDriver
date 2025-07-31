@@ -2,7 +2,6 @@
 
 Here are some of the projects I've worked on and what I'm currently building:
 
----
 
 ### ✅ Completed Projects
 
@@ -15,7 +14,6 @@ Here are some of the projects I've worked on and what I'm currently building:
 🌐 **Portfolio Website** — My personal portfolio  
 🔗 [Live Link](https://destinydriverx.vercel.app/)
 
----
 
 ### 🚧 Currently Working On
 
