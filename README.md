@@ -19,7 +19,7 @@ Here are some of the projects I've worked on and what I'm currently building:
 
 ### 🚧 Currently Working On
 
-🔐 **DestinAuth** — Auth-as-a-Service Application
+🔐 **DestinAuth** — Auth-as-a-Service Application<br/>
 👉 **Clarvio, Hirely.AI, Shrinko** — Other Side Projects I am working on
 
 ---
