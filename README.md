@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**DestinyDriver/DestinyDriver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some of the projects I've worked on and what I'm currently building:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✅ Completed Projects
+
+🗃️ **Filo** — A file sharing + paste tool  
+🔗 [Live Link](https://filo-destinydriver.vercel.app/)
+
+🪙 **Coin-Cli** — A Node.js CLI tool for crypto tracking  
+🔗 [Link to GitHub Repo](https://github.com/DestinyDriver/Coin-Cli)
+
+🌐 **Portfolio Website** — My personal portfolio  
+🔗 [Live Link](https://destinydriverx.vercel.app/)
+
+---
+
+### 🚧 Currently Working On
+
+🔐 **DestinAuth** — Auth-as-a-Service Application
+👉 **Clarvio, Hirely.AI, Shrinko** — Other Side Projects I am working on
+
+---
+
+> Want to collaborate or hire me? Feel free to connect!
+🤝 **LinkedIn** —  [See Profile](https://www.linkedin.com/in/divyanshsahu03/)
+📧 **Gmail** — [Contact Me](mailto:2023kucp1096@iiitkota.ac.in?subject=Let's%20Collaborate&body=Hi%20DestinyDriver%2C%0A%0AI%20came%20across%20your%20projects%20and%20I'd%20love%20to%20connect!)
+
