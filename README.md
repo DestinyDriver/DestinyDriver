@@ -7,6 +7,7 @@ Here are some of the projects I've worked on and what I'm currently building:
 
 🗃️ **Filo** — A file sharing + paste tool  
 🔗 [Live Link](https://filo-destinydriver.vercel.app/)
+> TODO: I will work in future on this to make it more perfect and more secure and with new features
 
 🪙 **Coin-Cli** — A Node.js CLI tool for crypto tracking  
 🔗 [Link to GitHub Repo](https://github.com/DestinyDriver/Coin-Cli)
