@@ -5,13 +5,13 @@ Here are some of the projects I've worked on and what I'm currently building:
 
 ### Completed Projects
 
-**Filo** — A file sharing + paste tool  [Live Link](https://filo-destinydriver.vercel.app/) [Link To Github Repo](https://github.com/DestinyDriver/Filo)
-**eNote** — Developed an AI-powered note-taking app with rich text editing, code support, smart search, and customizable productivity features. [Live Link](https://ekeepit.vercel.app/) [Link To Github Repo](https://github.com/amitdevv/eNote)
-**Coin-Cli** — A Node.js CLI tool for crypto tracking [Link to GitHub Repo](https://github.com/DestinyDriver/Coin-Cli)
-**Portfolio Website** — My personal portfolio  [Live Link](https://destinydriverx.vercel.app/) [Link To Github Repo](https://github.com/DestinyDriver/portfolio-site)
-**Nothing** — A Contact us Page Built using THREE.js [Live Link](nothing-destinydriver.vercel.app) [Link To Github Repo](https://github.com/DestinyDriver/Nothing)
-**Picture-in-Picture Web App** — screen capture tool with picture-in-picture mode to solve multitasking challenges [Live Link](https://pip-destinydriver.vercel.app/) [Link To Github Repo](https://github.com/DestinyDriver/Picture-In-Picture)
-**Music Player** — responsive music player web application [Live Link](music-player-ebon-eight.vercel.app) [Link To Github Repo](https://github.com/DestinyDriver/Music-Player)
+**Filo** — A file sharing + paste tool  [Live Link](https://filo-destinydriver.vercel.app/) [Link To Github Repo](https://github.com/DestinyDriver/Filo)<br/>
+**eNote** — Developed an AI-powered note-taking app with rich text editing, code support, smart search, and customizable productivity features. [Live Link](https://ekeepit.vercel.app/) [Link To Github Repo](https://github.com/amitdevv/eNote)<br/>
+**Coin-Cli** — A Node.js CLI tool for crypto tracking [Link to GitHub Repo](https://github.com/DestinyDriver/Coin-Cli)<br/>
+**Portfolio Website** — My personal portfolio  [Live Link](https://destinydriverx.vercel.app/) [Link To Github Repo](https://github.com/DestinyDriver/portfolio-site)<br/>
+**Nothing** — A Contact us Page Built using THREE.js [Live Link](nothing-destinydriver.vercel.app) [Link To Github Repo](https://github.com/DestinyDriver/Nothing)<br/>
+**Picture-in-Picture Web App** — screen capture tool with picture-in-picture mode to solve multitasking challenges [Live Link](https://pip-destinydriver.vercel.app/) [Link To Github Repo](https://github.com/DestinyDriver/Picture-In-Picture)<br/>
+**Music Player** — responsive music player web application [Live Link](music-player-ebon-eight.vercel.app) [Link To Github Repo](https://github.com/DestinyDriver/Music-Player)<br/>
 
 ### Currently Working On
 
