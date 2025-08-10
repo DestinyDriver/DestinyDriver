@@ -17,7 +17,7 @@ Here are some of my projects — from completed work to what I’m currently bui
 - **[Portfolio Website](http://destinydriver.me/)** — My personal portfolio  
   [GitHub Repo](https://github.com/DestinyDriver/portfolio-site)
 
-- **[Nothing](https://nothing-destinydriver.vercel.app/)** — Contact Us page built with THREE.js  
+- **[Nothing](https://nothing-destinydriver.vercel.app/contact)** — Contact Us page built with THREE.js  
   [GitHub Repo](https://github.com/DestinyDriver/Nothing)
 
 - **[Picture-in-Picture Web App](https://pip-destinydriver.vercel.app/)** — Screen capture tool with PiP mode for multitasking  
