@@ -1,26 +1,40 @@
 ## Hi there 👋
 
-Here are some of the projects I've worked on and what I'm currently building:
-
-
-### Completed Projects
-
-**Filo** — A file sharing + paste tool  [Live Link](https://filo-destinydriver.vercel.app/) [Link To Github Repo](https://github.com/DestinyDriver/Filo)<br/>
-**eNote** — Developed an AI-powered note-taking app with rich text editing, code support, smart search, and customizable productivity features. [Live Link](https://ekeepit.vercel.app/) [Link To Github Repo](https://github.com/amitdevv/eNote)<br/>
-**Coin-Cli** — A Node.js CLI tool for crypto tracking [Link to GitHub Repo](https://github.com/DestinyDriver/Coin-Cli)<br/>
-**Portfolio Website** — My personal portfolio  [Live Link](https://destinydriverx.vercel.app/) [Link To Github Repo](https://github.com/DestinyDriver/portfolio-site)<br/>
-**Nothing** — A Contact us Page Built using THREE.js [Live Link](nothing-destinydriver.vercel.app) [Link To Github Repo](https://github.com/DestinyDriver/Nothing)<br/>
-**Picture-in-Picture Web App** — screen capture tool with picture-in-picture mode to solve multitasking challenges [Live Link](https://pip-destinydriver.vercel.app/) [Link To Github Repo](https://github.com/DestinyDriver/Picture-In-Picture)<br/>
-**Music Player** — responsive music player web application [Live Link](music-player-ebon-eight.vercel.app) [Link To Github Repo](https://github.com/DestinyDriver/Music-Player)<br/>
-
-### Currently Working On
-
-🔐 **DestinAuth** — Auth-as-a-Service Application<br/>
-👉 **Clarvio, Hirely.AI, Shrinko** — Other Side Projects I am working on
+Here are some of my projects — from completed work to what I’m currently building:
 
 ---
 
-> Want to collaborate or hire me? Feel free to connect!<br/>
-🤝 **LinkedIn** —  [See Profile](https://www.linkedin.com/in/divyanshsahu03/)<br/>
-📧 **Gmail** — [Contact Me](mailto:2023kucp1096@iiitkota.ac.in?subject=Let's%20Collaborate&body=Hi%20DestinyDriver%2C%0A%0AI%20came%20across%20your%20projects%20and%20I'd%20love%20to%20connect!)
+### 🚀 Completed Projects
 
+- **[Filo](https://filo-destinydriver.vercel.app/)** — File sharing + paste tool  
+  [GitHub Repo](https://github.com/DestinyDriver/Filo)
+  
+- **[eNote](https://ekeepit.vercel.app/)** — AI-powered note-taking app with rich text editing, code support, smart search, and customizable productivity features  
+  [GitHub Repo](https://github.com/amitdevv/eNote)
+
+- **[Coin-Cli](https://github.com/DestinyDriver/Coin-Cli)** — Node.js CLI tool for crypto tracking
+
+- **[Portfolio Website](http://destinydriver.me/)** — My personal portfolio  
+  [GitHub Repo](https://github.com/DestinyDriver/portfolio-site)
+
+- **[Nothing](https://nothing-destinydriver.vercel.app/)** — Contact Us page built with THREE.js  
+  [GitHub Repo](https://github.com/DestinyDriver/Nothing)
+
+- **[Picture-in-Picture Web App](https://pip-destinydriver.vercel.app/)** — Screen capture tool with PiP mode for multitasking  
+  [GitHub Repo](https://github.com/DestinyDriver/Picture-In-Picture)
+
+- **[Music Player](https://music-player-ebon-eight.vercel.app/)** — Responsive web music player  
+  [GitHub Repo](https://github.com/DestinyDriver/Music-Player)
+
+---
+
+### 🛠 Currently Working On
+
+- **DestinAuth** — Auth-as-a-Service platform  
+- **Clarvio**, **Hirely.AI**, **Shrinko** — Side projects in progress
+
+---
+
+💌 **Want to collaborate or hire me?**  
+- 🤝 [LinkedIn](https://www.linkedin.com/in/divyanshsahu03/)  
+- 📧 [Email Me](mailto:2023kucp1096@iiitkota.ac.in?subject=Let's%20Collaborate&body=Hi%20DestinyDriver%2C%0A%0AI%20came%20across%20your%20projects%20and%20I'd%20love%20to%20connect!)
