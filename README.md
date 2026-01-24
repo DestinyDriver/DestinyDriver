@@ -38,3 +38,5 @@ Here are some of my projects — from completed work to what I’m currently bui
 💌 **Want to collaborate or hire me?**  
 - 🤝 [LinkedIn](https://www.linkedin.com/in/divyanshsahu03/)  
 - 📧 [Email Me](mailto:2023kucp1096@iiitkota.ac.in?subject=Let's%20Collaborate&body=Hi%20DestinyDriver%2C%0A%0AI%20came%20across%20your%20projects%20and%20I'd%20love%20to%20connect!)
+
+[![Profile Views](https://komarev.com/ghpvc/?username=DestinyDriver&color=36BCF7&style=flat-square)](https://github.com/DestinyDriver)
