@@ -85,9 +85,7 @@
 6. **Portfolio Website** — [Live](http://destinydriver.me/) | [GitHub](https://github.com/DestinyDriver/portfolio-site)
 
 </p>
-<table>
-<tr>
-<td width="70%">
+
 
 <img align="right" height="180" src="https://raw.githubusercontent.com/DestinyDriver/DestinyDriver/main/assets/coding.gif" />
 
