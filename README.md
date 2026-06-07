@@ -10,3 +10,21 @@ Here are some of my projects
 6. **Portfolio Website** — [Live](http://destinydriver.me/) | [GitHub](https://github.com/DestinyDriver/portfolio-site)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=DestinyDriver&color=36BCF7&style=flat-square)](https://github.com/DestinyDriver)
+
+
+<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">
+<p align="center">
+<br/>
+<p align="center">
+	<a href="https://github.com/DestinyDriver">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Divyansh Sahu;CSE @ IIIT Kota&center=true&width=380&height=30">
+	</a>
+</p>
+
+<hr>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouzad/maurodesouzad/pacman-output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouzad/maurodesouzad/pacman-output/galaga-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouzad/maurodesouzad/pacman-output/galaga-contribution-graph.svg">
+</picture>
