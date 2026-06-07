@@ -89,37 +89,29 @@
 <tr>
 <td width="70%">
 
-### Connect With Me
+<img align="right" height="180" src="https://raw.githubusercontent.com/DestinyDriver/DestinyDriver/main/assets/coding.gif" />
+
+<h3>Connect With Me</h3>
 
 <a href="https://www.linkedin.com/in/divyanshsahu03/">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="32" height="32" alt="linkedin" />
 </a>
 
 <a href="mailto:destinydriverx@gmail.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="32" height="32" alt="gmail" />
 </a>
 
 <a href="https://leetcode.com/u/xSomethingElse/">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="32" />
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="32" height="32" alt="leetcode" />
 </a>
 
 <a href="https://www.codechef.com/users/destinydriver">
-  <img src="https://cdn.simpleicons.org/codechef/5B4638" width="32" />
+  <img src="https://cdn.simpleicons.org/codechef/5B4638" width="32" height="32" alt="codechef" />
 </a>
 
 <a href="https://codeforces.com/profile/SomethingElse">
-  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="32" />
+  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="32" height="32" alt="codeforces" />
 </a>
-
-</td>
-
-<td align="right">
-
-<img height="180" src="https://private-user-images.githubusercontent.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif" />
-
-</td>
-</tr>
-</table>
 
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DestinyDriver/DestinyDriver/pacman-output/galaga-contribution-graph-dark.svg">
