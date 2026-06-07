@@ -1,6 +1,6 @@
 
 
-<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png">
+<!-- <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"> -->
 
 
 Hi 👋, I'm Divyansh Sahu
