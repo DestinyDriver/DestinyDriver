@@ -19,7 +19,7 @@ Here are some of the projects I've built:
 <!-- </br> -->
   
 <p align="right">
-  📧 <a href="mailto:destinydriverx@gmail.com">destinydriverx@gmail.com</a>
+  <sub>📧 destinydriverx@gmail.com</sub>
 </p>
 </div>
 
