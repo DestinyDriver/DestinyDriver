@@ -14,7 +14,7 @@ Here are some of the projects I've built:
 
   
 <p align="right">
-  <i>mail: destinydriverx@gmail.com</i>
+  <i>mail: divyansh.iiitk@gmail.com</i>
 </p>
 
 </div>
